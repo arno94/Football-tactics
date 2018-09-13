@@ -30,6 +30,12 @@ import items.PanelData;
 import items.Path;
 import items.PitchItem;
 
+/**
+ * 
+ * @author Arno
+ * The basic Frame. Thats what the user see.
+ *
+ */
 public class WindowProperties extends JFrame{
 
 	/**

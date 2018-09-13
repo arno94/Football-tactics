@@ -7,6 +7,12 @@ import java.awt.Graphics2D;
 import java.awt.Stroke;
 import java.awt.geom.GeneralPath;
 
+/**
+ * 
+ * @author Arno
+ * Class for generating paths in the DrawPanel
+ *
+ */
 public class Path{
 
 	private GeneralPath path;

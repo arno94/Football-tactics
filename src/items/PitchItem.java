@@ -1,5 +1,10 @@
 package items;
 
+/**
+ * 
+ * @author Arno
+ *
+ */
 public class PitchItem {
 
 	private String name;

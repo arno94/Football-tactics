@@ -8,7 +8,7 @@ import javax.swing.UnsupportedLookAndFeelException;
 public class Main{
 	
   /**
-	 * Launch the application.
+	 * Launch the application. Load data from the properties file.
 	 * @throws UnsupportedLookAndFeelException 
 	 * @throws IllegalAccessException 
 	 * @throws InstantiationException 

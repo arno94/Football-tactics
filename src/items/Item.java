@@ -3,6 +3,12 @@ package items;
 
 import java.util.ArrayList;
 
+/**
+ * 
+ * @author Arno
+ * Store items to draw
+ *
+ */
 public class Item {
 
 	private String path;
