@@ -1,0 +1,8 @@
+Játékosok
+2
+textures/players/blue.png
+textures/players/red.png
+
+Labdák
+1
+textures/balls/ball.png
